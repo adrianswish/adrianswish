@@ -4,13 +4,13 @@
 
 # Adrian Swish
 
-I am the founder of **[Digital Currensy Inc.](https://www.digitalcurrensy.com)** (Los Angeles, 2018). I write the products.
+I am the founder of **[Digital Currensy Inc.](https://www.digitalcurrensy.com)** (Los Angeles, 2018). I write and build the products.
 
 The company GitHub is **[DigitalCurrensy](https://github.com/DigitalCurrensy)**. That is where the code lives. This page is my name.
 
 I started as a music founder. Distribution, playlists, royalties, campaigns — no upfront fee, artists keep 80%. Then I started writing the software myself: TypeScript, React, Python, Postgres, the ship path to a live URL. Same person. Same standard. The product has to tell the truth or it does not ship.
 
-**[adrianswish.xyz](https://adrianswish.xyz)** · **[digitalcurrensy.com](https://www.digitalcurrensy.com)** · **[Label IQ](https://app.labeliq.ai)** · [X](https://x.com/IAmAdrianSwish) · [swish@digitalcurrensy.com](mailto:swish@digitalcurrensy.com)
+**[adrianswish.xyz](https://adrianswish.xyz)** · **[digitalcurrensy.com](https://www.digitalcurrensy.com)** · **[Label IQ AI](https://app.labeliq.ai)** · [X](https://x.com/IAmAdrianSwish) · 
 
 ---
 
@@ -77,13 +77,13 @@ What I actually write with. Not a badge wall.
 
 **App.** React 19. Next.js 15–16. TanStack Start / Router / Query when the house needs a real client spine instead of a page router. Vite. Expo when it has to be a phone.
 
-**Server & data.** Node. NestJS on the heavier APIs. Postgres. Prisma. Supabase where the house needs auth + storage without standing up a second company.
+**Server & data.** Node. NestJS on the heavier APIs. Postgres. Prisma. Supabase or Neon where the house needs auth + storage without standing up a second company.
 
 **Hard surfaces.** WebGL (foil, packs, game). AudioWorklet + Icecast (live audio). OCPP 2.1 (charge). Playwright for the walk, not just the unit.
 
-**Ship.** pnpm. Turborepo on the monorepos. Vercel for the public URLs. npm for the one published CLI (`@aio-geo/cli`). GitHub Actions when the house has a test that must run on every push.
+**Ship.** pnpm. Turborepo on the monorepos. Vercel or Cloudflare for the public URLs. npm for the one published CLI (`@aio-geo/cli`). GitHub Actions when the house has a test that must run on every push.
 
-I am not a ten-year staff engineer. I am a founder who writes the product end to end — schema, UI, the fail-closed path, the live URL — and I will not claim a stack I have not shipped.
+I am not a ten-year staff engineer. I am a founder who writes and builds the product end to end — schema, UI, the fail-closed path, the live URL — and I will not claim a stack I have not shipped.
 
 ---
 
@@ -102,7 +102,6 @@ Engineering for those houses, and for the public products above, is what this Gi
 ## What is not on this page
 
 - Private repos. Dozens of them. Named only with a stamp, never with a clone URL.
-- Adult houses. Off the default resume. Off this profile.
 - A fake contribution graph. Old commits live on DigitalCurrensy. New work is attributed here. I will not rewrite history to paint squares.
 
 If you want the company door, go to **[github.com/DigitalCurrensy](https://github.com/DigitalCurrensy)**. If you want me, you are already here.
