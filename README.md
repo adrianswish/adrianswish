@@ -27,7 +27,7 @@ Six public houses. Each one is a full product, not a landing page. Click live fi
 | **ROP 4** | A one-minute Detroit night racer cut for Icewear Vezzo's album. Music as a playable object. | [play](https://blue-cloud-787.higgsfield.gg/) · [site](https://github.com/DigitalCurrensy/ICEWEAR-VEZZO-ROP4-WEBSITE) |
 | **AIO.GEO** | Know what AI sees when it looks at a place. Fix it. Prove it. Geo-visibility with a receipt. | [live](https://www.aiogeoprotocol.com) |
 
-Same company, other public doors: the [music platform](https://www.digitalcurrensy.com), [Label IQ](https://app.labeliq.ai) (AI studio), [The U Prep](https://www.theubasketballprepacademy.com) (basketball academy, Glendale & Torrance), [founder site](https://adrianswish.xyz).
+Same company, other public doors: the [music platform](https://www.digitalcurrensy.com), [Label IQ](https://app.labeliq.ai) (AI studio), [The U Prep](https://www.theubasketballprepacademy.com) (the u basketball academy), [founder site](https://adrianswish.xyz).
 
 ---
 
@@ -79,7 +79,7 @@ What I actually write with. Not a badge wall.
 
 **Server & data.** Node. NestJS on the heavier APIs. Postgres. Prisma. Supabase or Neon where the house needs auth + storage without standing up a second company.
 
-**Hard surfaces.** WebGL (foil, packs, game). AudioWorklet + Icecast (live audio). OCPP 2.1 (charge). Playwright for the walk, not just the unit.
+**Hard surfaces.** WebGL (foil, packs, game). AudioWorklet. Playwright for the walk, not just the unit.
 
 **Ship.** pnpm. Turborepo on the monorepos. Vercel or Cloudflare for the public URLs. npm for the one published CLI (`@aio-geo/cli`). GitHub Actions when the house has a test that must run on every push.
 
@@ -93,7 +93,7 @@ Digital Currensy Inc. is a technology company in Los Angeles. Music, sports, ent
 
 - **Music platform** — [digitalcurrensy.com](https://www.digitalcurrensy.com). Distribution, streaming, playlists, royalties, campaigns. No upfront fee. Artists keep **80%**.
 - **AI studio** — [app.labeliq.ai](https://app.labeliq.ai). Songs, videos, assets, fan campaigns. The creative layer next to a release.
-- **Scale we publish** — 100M+ streams · 800+ artists · $600K+ revenue · 15K+ assets · 30+ in-house playlists · 20K+ artist opt-ins · founded 2018.
+- **Scale we publish** — 100M+ streams · 800+ artists · 15K+ assets · 30+ in-house playlists · 20K+ artist opt-ins · founded 2018.
 
 Engineering for those houses, and for the public products above, is what this GitHub is for.
 
